@@ -37,7 +37,6 @@ const Gallery: React.FC<GallaryPrpps> = ({
 
                     </Tab.Panel>
                 ))}
-
             </Tab.Panels>
         </Tab.Group>
     )
