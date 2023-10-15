@@ -12,7 +12,6 @@ This is an ecommerce project for providing the exclusive variety of made in Indi
 
 - [Features](#features)
 - [Technologies and Libraries Used](#technologies-and-libraries-used)
-- [Screenshots](#screenshots)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -48,11 +47,13 @@ This is an ecommerce project for providing the exclusive variety of made in Indi
 - Stripe
 - and more...
 
-## Screenshots
-
-
-
 ## Demo
+
+You can access the live demo of the Ecommerce web app by following the link below:
+
+[![Live Demo](https://dsimply-mart-store.vercel.app/)](https://dsimply-mart-store.vercel.app/)
+
+Feel free to explore the features and functionality of the app. We welcome your feedback and suggestions.
 
 
 
