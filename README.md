@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DsimplyMart
+
+[![GitHub license](https://img.shields.io/github/license/dibyansh01/DsimplyMart-store)](https://github.com/dibyansh01/DsimplyMart-store/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/dibyansh01/DsimplyMart-store)](https://github.com/dibyansh01/DsimplyMart-store/issues)
+[![GitHub stars](https://img.shields.io/github/stars/dibyansh01/DsimplyMart-store)](https://github.com/dibyansh01/DsimplyMart-store/stargazers)
+
+## Description
+
+This is an ecommerce project for providing the exclusive variety of made in India Khadi and handloom items. 
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies and Libraries Used](#technologies-and-libraries-used)
+- [Screenshots](#screenshots)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
+
+## Features
+
+1. **Exclusive Khadi and Handloom Collection:** Explore a diverse and exclusive collection of made in India Khadi and handloom items, showcasing the rich cultural heritage of India.
+
+2. **Responsive Web Design:** DsimplyMart is built with the latest technology, including Next.js 13, to ensure a highly responsive design that adapts seamlessly to both small screens (phones/mobiles) and larger screens, providing a consistent and user-friendly experience.
+
+3. **User-Friendly Navigation:** Easily navigate through the web app to discover a wide range of products, with a user-friendly and intuitive interface.
+
+4. **Product Details:** View detailed product descriptions, images, pricing, and availability for each item, making it easy to make informed purchase decisions.
+
+5. **Secure Shopping:** Shop with confidence, knowing that your transactions and personal information are secure with industry-standard security practices.
+
+6. **Shopping Cart and Checkout:** Conveniently add products to your shopping cart and proceed to a smooth and secure checkout process.
+
+7. **Payment Options:** Choose payment with credit/debit cards for a convenient and secure checkout.
+
+
+## Technologies and Libraries Used
+
+- Next.js 13 App Router
+- React
+- Tailwind
+- Prisma
+- Zustand
+- Axios
+- Clerk
+- Stripe
+- and more...
+
+## Screenshots
+
+
+
+## Demo
+
+
 
 ## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   git clone https://github.com/YourUsername/YourEcommerceApp.git
+   
+2. Install dependencies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    ```bash
+   npm install
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Configure environment variables 
 
-## Learn More
+4. Start the development server:
+   ```bash
+   npm run dev
 
-To learn more about Next.js, take a look at the following resources:
+5. Open your web browser and access the app at http://localhost:3000.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contribution
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## License
+
+
+
+
+
