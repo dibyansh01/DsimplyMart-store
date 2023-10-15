@@ -51,7 +51,7 @@ This is an ecommerce project for providing the exclusive variety of made in Indi
 
 You can access the live demo of the Ecommerce web app by following the link below:
 
-[![Live Demo](https://dsimply-mart-store.vercel.app/)](https://dsimply-mart-store.vercel.app/)
+[Link](https://dsimply-mart-store.vercel.app/)
 
 Feel free to explore the features and functionality of the app. We welcome your feedback and suggestions.
 
@@ -63,7 +63,7 @@ Feel free to explore the features and functionality of the app. We welcome your 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/YourEcommerceApp.git
+   git clone https://github.com/dibyansh01/DsimplyMart-store
    
 2. Install dependencies:
 
