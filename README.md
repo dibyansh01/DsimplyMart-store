@@ -41,6 +41,7 @@ This is an ecommerce project for providing the exclusive variety of made in Indi
 - React
 - Tailwind
 - Prisma
+- Supabase
 - Zustand
 - Axios
 - Clerk
