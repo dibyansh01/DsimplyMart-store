@@ -40,12 +40,14 @@ This is an ecommerce project for providing the exclusive variety of made in Indi
 - Next.js 13 App Router
 - React
 - Tailwind
+- Shadcn UI
 - Prisma
 - Supabase
 - Zustand
 - Axios
 - Clerk
 - Stripe
+- Docker
 - and more...
 
 ## Demo
@@ -60,7 +62,6 @@ Feel free to explore the features and functionality of the app. We welcome your 
 
 ## Getting Started
 
-
 1. Clone the repository:
 
    ```bash
@@ -71,14 +72,24 @@ Feel free to explore the features and functionality of the app. We welcome your 
     ```bash
    npm install
 
-3. Configure environment variables 
+3. Configure environment variables
 
-4. Start the development server:
+5. Start the development server:
    ```bash
    npm run dev
 
-5. Open your web browser and access the app at http://localhost:3000.
-
+6. Open your web browser and access the app at http://localhost:3000.
+   
+#### Or
+Run the application inside docker container (Make sure you have docker installed locally): 
+1. Docker Build
+   ```bash
+   docker build -t dsimplymart-store .
+2. Docker Run
+    ```bash
+   docker run -p d 3000:3000 dsimplymart-store
+   
+   
 ### Note: 
 
 The management of store products and API actions is centralized within the admin dashboard. To ensure the proper functionality of your store, it is essential to set up the Admin dashboard first. You can find the dashboard repository [here](https://github.com/dibyansh01/DsimplyMart-dashboard).
